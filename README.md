@@ -1,5 +1,11 @@
 # 💫 About Me:
-¡Bienvenid@ a mi rincón en GitHub! Soy una desarrolladora web apasionada por el aprendizaje y motivada por el deseo de viajar, aprender idiomas y sumergirme en nuevas culturas. Me gradué del bootcamp de Laboratoria, donde adquirí experiencia en tecnologías como HTML, CSS, JavaScript y C#. Combino mi sólida formación técnica con un espíritu emprendedor en el mundo tecnológico. Estoy comprometida con el crecimiento profesional y busco contribuir a proyectos significativos.<br><br>🐱‍💻 En Laboratoria realice 4 proyectos:<br>Text Analizer<br>Dataverse<br>Dataverse-chat<br>Guess The Number
+¡Bienvenid@ a mi rincón en GitHub! Soy una desarrolladora web apasionada por el aprendizaje y motivada por el deseo de viajar, aprender idiomas y sumergirme en nuevas culturas. Me gradué del bootcamp de Laboratoria, donde adquirí experiencia en tecnologías como HTML, CSS, JavaScript y C#. Combino mi sólida formación técnica con un espíritu emprendedor en el mundo tecnológico. Estoy comprometida con el crecimiento profesional y busco contribuir a proyectos significativos.
+
+## 🐱‍💻 En Laboratoria realice 4 proyectos:
++ Text Analizer
++ Dataverse
++ Dataverse-chat
++ Guess The Number
 
 
 ## 🌐 Socials:
