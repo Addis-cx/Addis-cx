@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Desarrolladora Web Apasionada por el Aprendizaje y los Desafios.
 
-¡Bienvenid@ a mi rincón en GitHub! Soy una egresada de Laboratoria con sólidos conocimientos en desarrollo web. Me caracterizo por ser autodidacta, enfocada en el trabajo en equipo, flexible y responsable.
+¡Bienvenid@ a mi rincón en GitHub! Soy una desarrolladora web apasionada por el aprendizaje y motivada por el deseo de viajar, aprender idiomas y sumergirme en nuevas culturas. Me gradué del bootcamp de Laboratoria, donde adquirí experiencia en tecnologías como HTML, CSS, JavaScript y C#. Combino mi sólida formación técnica con un espíritu emprendedor en el mundo tecnológico. Estoy comprometida con el crecimiento profesional y busco contribuir a proyectos significativos.
 
 ### 🐱‍💻 En Laboratoria realice 4 proyectos:
 
