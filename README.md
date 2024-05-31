@@ -4,14 +4,13 @@
 
 ¡Bienvenid@ a mi rincón en GitHub! Soy una egresada de Laboratoria con sólidos conocimientos en desarrollo web. Me caracterizo por ser autodidacta, enfocada en el trabajo en equipo, flexible y responsable.
 
-### 🐱‍💻 En Laboratira podido realizar 3 proyectos:
+### 🐱‍💻 En Laboratoria realice 4 proyectos:
 
 + Text Analizer
 + Dataverse
 + Dataverse-chat
 + Guess The Number
 
-## 💻 Tech Stack:
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 
